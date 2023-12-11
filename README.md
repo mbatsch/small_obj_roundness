@@ -8,7 +8,7 @@ The repository contains some of the code used in the project aiming at designing
 <b>List of files</b>
 
 <ul>
-  <li><a href="https://github.com/mbatsch/gear_fault/blob/main/data_stats_and_visu.py">data_stats_and_visu.py</a> - data preprocessing, statistics and visualisation</li>
-  <li><a href="https://github.com/mbatsch/gear_fault/blob/main/train_test_model.py">train_test_model.py</a> - model of autoencoder, training, testing and metrics</li>
+  <li><a href="https://github.com/mbatsch/small_obj_roundness/blob/main/roundness.m">roundness.m</a> - script for image processing and roundness evaluation</li>
+  <li><a href="https://github.com/mbatsch/small_obj_roundness/blob/main/circfit.m">circfit.m</a> - function for circle fitting</li>
 </ul>
 
